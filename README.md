@@ -1,4 +1,3 @@
-# Deep learning mini project
 # Image-Caption-Generator
 
 Whenever an image appears in front of us, our brain can annotate or label it. But what about computers? How can a machine process and label an image with a highly relevant and accurate caption? It seemed quite impossible a few years back. 
