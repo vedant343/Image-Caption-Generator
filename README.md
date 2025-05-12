@@ -5,7 +5,7 @@ When we see an image, our brain can quickly generate a relevant description or c
 In this guide, we'll build an annotation tool capable of generating relevant captions for images using the power of deep learning. A basic understanding of two deep learning techniques, CNN and LSTM, is required.
 
 ## 📚 Dataset
-Download the dataset [here](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+Download the dataset : [Flickr 8K Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
 ## 🛠️ Image Caption Generator with CNN - About the Project
 
